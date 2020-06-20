@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Rockstar Kernel by Dhruv
+kernel.string=Testing kernel by ahoy
 do.devicecheck=1
 do.modules=0
 do.systemless=1
